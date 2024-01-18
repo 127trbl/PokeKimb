@@ -1,4 +1,4 @@
-small update (v1.1)
+small update (v1.02)
 
 this demo contains up to 5 Kimbs to find, and you can play until after the first battle + the demo challenge.
 
