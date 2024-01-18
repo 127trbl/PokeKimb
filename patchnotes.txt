@@ -1,10 +1,11 @@
-small update (v1.02)
+small update (v1.01)
 
 this demo contains up to 5 Kimbs to find, and you can play until after the first battle + the demo challenge.
 
 changelog:
 
 - changed the character creator background
+to change the character background, wait for the update to finish, locate the original background (www/img/SumRndmDde/character-creator-ex) and delete the background.png file. after this rename background2.png to simply "background.png" without the quotation marks.
 
 this game has an auto updater, so when an update is available and you are connected to the internet, the update will automatically download.
 if for any reason the updater isn't working, you can download the latest version from here: https://github.com/127trbl/PokeKimb/tree/demo download latest.zip
